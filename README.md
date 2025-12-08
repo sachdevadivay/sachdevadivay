@@ -1,96 +1,66 @@
-## Hi there 👋
-<!-- Banner -->
-<p align="center">
-  <img src="assets/banner-dark.png" alt="banner" style="max-width:100%; border-radius:12px;" />
-</p>
-
-<h1 align="center">Hi 👋 I'm Divay Sachdeva</h1>
-<p align="center">
-  <strong>Software Engineer • Systems Enthusiast • Open Source Contributor</strong><br/>
-  Building fast, reliable systems and elegant developer tools.
-</p>
+<!-- Animated Hi 👋 -->
+<h1 align="center">
+  Hi there <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="40px"> I'm Divay Sachdeva
+</h1>
 
 <p align="center">
-  <!-- Tech badges -->
-  <img src="https://img.shields.io/badge/OS-Linux-333?logo=linux&logoColor=white" alt="Linux" />
-  <img src="https://img.shields.io/badge/Editor-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white" alt="VSCode" />
-  <img src="https://img.shields.io/badge/Language-Python-3776AB?logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Language-C%2B%2B-00599C?logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Cloud-AWS-232F3E?logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/DB-Postgres-336791?logo=postgresql&logoColor=white" alt="Postgres" />
+  <strong>Computer Science Engineering Student | Developer | Tech Explorer</strong>
 </p>
 
 ---
 
-## 🔭 About Me
-- 🧩 I love building backend systems, automation tools and neat developer experiences.  
-- ⚡ Currently focusing on high-performance networking and API design.  
-- 🌱 Learning distributed systems and Rust in spare time.  
-- 💬 I enjoy writing clear docs, mentoring juniors, and contributing to open-source.
+## 👨‍💻 About Me  
+- 🎓 CSE Student  
+- 💻 I code in **Python, C, Linux Shell**  
+- 🚀 Learning **Data Structures, Algorithms, and System Programming**  
+- 🧑‍🏫 Always exploring new technologies  
+- ⚡ Passionate about Backend Development & Linux tools  
 
 ---
 
-## 🛠️ Tech & Tools
-**Languages:** Python · C++ · JavaScript · Rust (learning)  
-**Backend:** FastAPI · Flask · PostgreSQL · Redis  
-**DevOps / Infra:** Linux · Docker · GitHub Actions · AWS (EC2, S3)  
-**Tools:** VS Code · tmux · htop · gdb
+## 🛠️ Tech Skills
+
+### **Languages**
+- Python 🐍  
+- C  
+- Bash / Linux Shell  
+
+### **Tools & Technologies**
+- Linux  
+- Git & GitHub  
+- VS Code  
+- GCC Compiler  
 
 ---
 
-## 🚀 Featured Projects
-### 🔧 FlashCards — Spaced repetition app  
-A lightweight flashcard web app to learn vocabulary faster.  
-<p align="center">
-  <a href="https://github.com/DivaySachdeva/flashcards"><img src="assets/flashcards-thumb.png" alt="flashcards" width="720" /></a>
-</p>
+## 📂 Featured Work (Add Your Projects Here)
 
-### 🖥️ Tiny-Server — Minimal HTTP + metrics  
-C++ microserver with request logging, prometheus metrics and tests.  
-<p align="center">
-  <a href="https://github.com/DivaySachdeva/tiny-server"><img src="assets/tiny-server-thumb.png" alt="tiny-server" width="720" /></a>
-</p>
+### 📘 **100 Days of Code Journey**
+A roadmap of my coding progress and practice.
+
+### 📦 **C Programming Major Project**
+Modular and clean code structure using header files and multiple source files.
+
+*(You can add more projects later.)*
 
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DivaySachdeva&show_icons=true&theme=radical" width="380" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=DivaySachdeva&theme=radical" width="380" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sachdevadivay&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=sachdevadivay&theme=tokyonight" />
 </p>
 
 ---
 
-## 📫 Contact
+## 🌐 Connect With Me
 <p align="center">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-email%40example.com-D14836?logo=gmail&logoColor=white" alt="email" /></a>
-  <a href="https://www.linkedin.com/in/YOUR-LINK"><img src="https://img.shields.io/badge/LinkedIn-LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="linkedin" /></a>
-  <a href="https://twitter.com/YOUR_TWITTER"><img src="https://img.shields.io/badge/Twitter-@YOUR_TWITTER-1DA1F2?logo=twitter&logoColor=white" alt="twitter" /></a>
+  <a href="https://www.linkedin.com/in/divay-sachdeva"><img src="https://img.shields.io/badge/LinkedIn-Divay%20Sachdeva-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:sachdevadivay300@gmail.com"><img src="https://img.shields.io/badge/Email-Connect-orange?style=for-the-badge&logo=gmail"></a>
 </p>
 
 ---
 
-## 🧭 Quick Links
-- 🔭 Portfolio: https://your-portfolio.example  
-- 📁 Top repo: [tiny-server](https://github.com/DivaySachdeva/tiny-server)  
-- ✍️ Blog: https://dev.to/YOUR_PROFILE
+<p align="center">✨ Thank you for visiting my profile ✨</p>
 
----
-
-<p align="center">Made with ❤️ & ⚙️ • <em>Divay Sachdeva</em></p>
-
-
-<!--
-**sachdevadivay/sachdevadivay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
