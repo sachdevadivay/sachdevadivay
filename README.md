@@ -1,79 +1,53 @@
-<!-- Banner -->
+<!-- Banner Image -->
 <p align="center">
-  <img src="banner.png" width="100%"/>
+  <img src="https://raw.githubusercontent.com/DivaySachdeva/your-repo/main/your-banner.png" alt="Tech Banner" width="100%">
 </p>
 
-<!-- Animated Hi with space for your tech image -->
-<p align="center">
-  <img src="tech-hi.png" width="120"/>
-</p>
+<h1 align="center">👋 Hey, I'm <span style="color:#00A8FF">Divay Sachdeva</span></h1>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Divay+Sachdeva+👋;Computer+Science+Engineer;Tech+Explorer+%F0%9F%9A%80;Welcome+to+My+GitHub+Universe!" />
-</h1>
+<!-- Faster Animated Words -->
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=900&pause=600&color=00A8FF&center=true&vCenter=true&width=650&lines=Tech+Enthusiast;Programmer;Developer;Linux+Learner;C+%7C+Python+Coder" alt="Typing Animation" />
+</h3>
 
 ---
 
-## 🧑‍💻 **About Me**
-✨ Computer Science Engineering Student  
-🚀 Exploring advanced tech & modern tooling  
-💻 Coding in Python, C, Linux, and automation  
-📚 Passionate about solving real-world problems  
-📧 **Email:** sachdevadivay300@gmail.com  
+## 🚀 **About Me**
+- 👨‍💻 Passionate about coding & technology  
+- 🐧 Currently learning **Linux, Python & C**  
+- ⚙️ Love building cool things  
+- 💡 Always exploring new tools & tech  
 
 ---
 
-## ⚡ **Tech Stack**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,linux,git,github,vscode,html,css,cpp,java,bash&perline=6" />
-</p>
-
----
-
-## 🌟 **GitHub Analytics**
-<p align="center">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=sachdevadivay&show_icons=true&theme=tokyonight" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachdevadivay&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🔥 **Streak Stats**
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sachdevadivay&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🌐 **Connect with Me**
+## 🛠 **Tech Stack**
 <p align="center">
 
-  <a href="https://instagram.com/sachdeva.divay">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
-  </a>
+<!-- GitHub -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" title="GitHub"/>
 
-  <a href="mailto:sachdevadivay300@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+<!-- VS Code -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" title="VS Code"/>
 
-  <a href="https://www.linkedin.com/in/divay-sachdeva">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+<!-- Python -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" title="Python"/>
+
+<!-- C -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="60" title="C Language"/>
+
+<!-- Linux -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60" title="Linux"/>
 
 </p>
 
 ---
 
-## 🌀 **Animated Divider**
-<p align="center">
-  <img src="https://raw.githubusercontent.com/TrungNguyen1909/Animated-Fancy-Divider/main/divider.gif" width="100%"/>
-</p>
+## 📫 **Connect With Me**
+📧 Email: **sachdevadivay300@gmail.com**
 
 ---
 
-## 🎨 **Animated Signature**
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=8B00FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!;Keep+Learning+Keep+Coding+💻✨;Have+an+Awesome+Day!"/>
-</p>
+<p align="center">✨ Thanks for visiting my profile! ✨</p>
+
 
 
