@@ -1,6 +1,6 @@
 <!-- Centered Fast Moving HI Animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&duration=300&pause=200&color=00A8FF&center=true&vCenter=true&width=480&lines=Hi+There!+👋;I+am+Divay+Sachdeva+😎;Welcome+to+my+GitHub+Profile+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&duration=600&pause=600&color=00A8FF&center=true&vCenter=true&width=480&lines=Hi+There!+👋;I+am+Divay+Sachdeva+😎;Welcome+to+my+GitHub+Profile+🚀" />
 </h1>
 
 <!-- Glitch Style Name Logo -->
@@ -30,9 +30,9 @@
 
 ---
 
-# 💥 **Fast Animated Role Titles**
+# 💥 **Fast Animated Role Titles (Slower Now)**
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=300&pause=150&color=04D9FF&center=true&vCenter=true&width=900&lines=Tech+Explorer;Python+%26+C+Developer;Linux+Enthusiast;Open+Source+Learner;Future+Engineer+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=600&pause=600&color=04D9FF&center=true&vCenter=true&width=900&lines=Tech+Explorer;Python+%26+C+Developer;Linux+Enthusiast;Open+Source+Learner;Future+Engineer+🚀" />
 </h2>
 
 ---
@@ -71,6 +71,7 @@
 ---
 
 <p align="center">✨ Thanks for Visiting — Have a Great Day! ✨</p>
+
 
 
 
