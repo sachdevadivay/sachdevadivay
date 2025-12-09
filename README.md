@@ -1,16 +1,11 @@
 <!-- 🔥 Top Banner Image -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sachdevadivay/sachdevadivay/main/image_2025-12-09_140422395.png" width="85%">
+  <img src="https://raw.githubusercontent.com/sachdevadivay/sachdevadivay/main/image_2025-12-09_140422395.png" width="65%">
 </p>
 
 <!-- Centered Fast Moving HI Animation -->
-<h1 align="center">
+<h1 align="center" style="margin-bottom: 0;">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&duration=600&pause=600&color=00A8FF&center=true&vCenter=true&width=480&lines=Hi+There!+👋;I+am+Divay+Sachdeva+😎;Welcome+to+my+GitHub+Profile+🚀" />
-</h1>
-
-<!-- Glitch Style Name Logo -->
-<h1 align="center">
-  <img src="https://see.fontimg.com/api/renderfont4/7YJR8/eyJyIjoiZnMiLCJoIjoxMDAsInciOjEwMDAsImZzIjoxMDAsImZnYyI6IiMwMEE4RkYiLCJiZ2MiOiIjMDAwMDAwIn0/RGl2YXkgU2FjaGRldmE/techno-chain.png" width="700"/>
 </h1>
 
 ---
@@ -76,6 +71,7 @@
 ---
 
 <p align="center">✨ Thanks for Visiting — Have a Great Day! ✨</p>
+
 
 
 
