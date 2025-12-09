@@ -18,7 +18,7 @@
 
 ---
 
-# 🛠 **Tech Stack (Icons Only)**
+# 🛠 **Tech Stack**
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60"/>
@@ -30,7 +30,7 @@
 
 ---
 
-# 💥 **Fast Animated Role Titles (Slower Now)**
+# 💥 **Fast Animated Role Titles**
 <h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=600&pause=600&color=04D9FF&center=true&vCenter=true&width=900&lines=Tech+Explorer;Python+%26+C+Developer;Linux+Enthusiast;Open+Source+Learner;Future+Engineer+🚀" />
 </h2>
@@ -41,7 +41,7 @@
 - 🏏 Playing **Cricket**  
 - 🏸 Playing **Badminton**  
 - ✈️ **Travelling**  
-- 👨‍👩‍👧‍👦 Time with **Family & Friends**  
+- 👨‍👩‍👧‍👦 Spending time with **Family & Friends**  
 - 🌍 Exploring new places  
 
 ---
@@ -71,6 +71,7 @@
 ---
 
 <p align="center">✨ Thanks for Visiting — Have a Great Day! ✨</p>
+
 
 
 
