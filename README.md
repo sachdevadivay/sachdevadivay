@@ -1,3 +1,8 @@
+<!-- 🔥 Top Banner Image -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sachdevadivay/sachdevadivay/main/image_2025-12-09_140422395.png" width="85%">
+</p>
+
 <!-- Centered Fast Moving HI Animation -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&duration=600&pause=600&color=00A8FF&center=true&vCenter=true&width=480&lines=Hi+There!+👋;I+am+Divay+Sachdeva+😎;Welcome+to+my+GitHub+Profile+🚀" />
@@ -54,7 +59,7 @@
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/sachdevadivay">
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -71,6 +76,7 @@
 ---
 
 <p align="center">✨ Thanks for Visiting — Have a Great Day! ✨</p>
+
 
 
 
