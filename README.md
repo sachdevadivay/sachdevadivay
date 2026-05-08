@@ -1,6 +1,6 @@
 <!-- 🔥 Top Banner Image -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sachdevadivay/sachdevadivay/main/image_2025-12-09_140422395.png" width="65%">
+  <img src="https://raw.githubusercontent.com/sachdevadivay/sachdevadivay/main/ChatGPT Image Dec 9, 2025, 01_49_55 PM (1).png" width="65%">
 </p>
 
 <!-- Centered Fast Moving HI Animation -->
