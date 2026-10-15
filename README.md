@@ -81,6 +81,16 @@ divay@github:~$ _
 
 ---
 
+<h2><img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Trophy/3D/trophy_3d.png" width="32" align="absmiddle"/> <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=1500&pause=100000&repeat=false&color=00A8FF&vCenter=true&width=400&height=40&lines=Trophy+Case" align="absmiddle" alt="Trophy Case"/></h2>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=sachdevadivay&theme=onedark&no-frame=true&no-bg=true&row=1&column=7&margin-w=12" alt="GitHub Trophies"/>
+
+</div>
+
+---
+
 <h2><img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Light%20bulb/3D/light_bulb_3d.png" width="32" align="absmiddle"/> <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=1500&pause=100000&repeat=false&color=00A8FF&vCenter=true&width=450&height=40&lines=Featured+Projects" align="absmiddle" alt="Featured Projects"/></h2>
 
 <div align="center">
