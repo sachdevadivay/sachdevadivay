@@ -85,7 +85,13 @@ divay@github:~$ _
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=sachdevadivay&theme=onedark&no-frame=true&no-bg=true&row=1&column=7&margin-w=12" alt="GitHub Trophies"/>
+<a href="https://leetcode.com/u/Divay9671/"><img src="https://img.shields.io/badge/LeetCode-84%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode 84 solved"/></a>
+<img src="https://img.shields.io/badge/Easy-36-00B8A3?style=for-the-badge" alt="Easy 36"/>
+<img src="https://img.shields.io/badge/Medium-41-FFC01E?style=for-the-badge&logoColor=black" alt="Medium 41"/>
+<img src="https://img.shields.io/badge/Hard-7-EF4743?style=for-the-badge" alt="Hard 7"/>
+
+<img src="https://img.shields.io/badge/Next%20Goal-100%2B%20Problems-00A8FF?style=for-the-badge" alt="Next goal"/>
+<img src="https://img.shields.io/badge/Focus-Python%20%7C%20C%20%7C%20Linux-8A2BE2?style=for-the-badge" alt="Focus"/>
 
 </div>
 
