@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,50:203a43,100:2c5364&height=300&section=header&text=Divay%20Sachdeva&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=CSE%20Student%20%7C%20Python%20%26%20C%20Developer%20%7C%20Linux%20Enthusiast&descAlignY=62&descSize=17" width="100%"/>
 
 <!-- Animated avatar: upload assets/avatar.svg to your repo -->
-<img src="assets/avatar.svg" width="640" alt="Divay coding at his desk"/>
+<img src="avatar.svg" width="640" alt="Divay coding at his desk"/>
 
 <!-- Orbitron: futuristic display font -->
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=2500&pause=800&color=00A8FF&center=true&vCenter=true&width=800&height=60&lines=Hi+There!+I'm+Divay+Sachdeva;Python+%26+C+Developer;Linux+Enthusiast;DSA+%7C+LeetCode+Grinder;Future+Engineer" alt="Typing SVG" />
