@@ -2,13 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,50:203a43,100:2c5364&height=300&section=header&text=Divay%20Sachdeva&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=CSE%20Student%20%7C%20Python%20%26%20C%20Developer%20%7C%20Linux%20Enthusiast&descAlignY=62&descSize=17" width="100%"/>
 
-<!-- 3D hero: coding student -->
-<img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Laptop/3D/laptop_3d.png" width="90" align="absmiddle" alt="laptop"/>
-<img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Books/3D/books_3d.png" width="90" align="absmiddle" alt="books"/>
-<img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Man%20technologist/Medium/3D/man_technologist_3d_medium.png" width="230" align="absmiddle" alt="3D coding student"/>
-<img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Rocket/3D/rocket_3d.png" width="90" align="absmiddle" alt="rocket"/>
-<img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Desktop%20computer/3D/desktop_computer_3d.png" width="90" align="absmiddle" alt="computer"/>
-
+<!-- Animated avatar: upload assets/avatar.svg to your repo -->
+<img src="assets/avatar.svg" width="640" alt="Divay coding at his desk"/>
 
 <!-- Orbitron: futuristic display font -->
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=2500&pause=800&color=00A8FF&center=true&vCenter=true&width=800&height=60&lines=Hi+There!+I'm+Divay+Sachdeva;Python+%26+C+Developer;Linux+Enthusiast;DSA+%7C+LeetCode+Grinder;Future+Engineer" alt="Typing SVG" />
